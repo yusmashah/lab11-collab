@@ -1,0 +1,3 @@
+We are a group working on Git collaboration tasks.
+We are learning branching, forking, and pull requests.
+This demonstrates GitHub workflow.
